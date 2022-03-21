@@ -8,4 +8,4 @@ I am *Yaochen Yan*👦 from the University of Auckland🇳🇿. I love 🐕, and
 
 If you want to see the details about final version of meme and source code, please see [index.md](https://github.com/dailymomo/stats220/blob/main/index.md)
 
-If you want to know more about **meme**, please see [meme](https://en.wikipedia.org/wiki/Meme)
+If you want to know more about **meme**, please see [meme](https://en.wikipedia.org/wiki/Meme).
