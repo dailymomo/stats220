@@ -54,4 +54,4 @@ image_write(meme, "my_meme.png")
 ```
 
 
-[STATS220](https://github.com/dailymomo/stats220)
+Click [stats220](https://github.com/dailymomo/stats220) to go back to `stats220` Github page.
